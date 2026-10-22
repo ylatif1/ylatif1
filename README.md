@@ -1,10 +1,15 @@
-Hi, I’m @ylatif1, an aspiring data analyst. 
-I’m interested in any type of data, but I do enjoy looking into sports or gaming related datasets.
-I’m currently learning Power BI as well as making a ranking system for professional golfers.
-You can contact via email, yusuflatif675@gmail.com
+# Hi, I'm Yusuf :)
 
+Data Analyst working in insurance pricing. I work on pricing analysis, GLM modelling (Poisson frequency / Gamma severity) and Power BI reporting, and I'm developing further into data science. Mathematics & Statistics graduate (Newcastle University, 2:1).
 
-<!---
-ylatif1/ylatif1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🔧 Tools
+**Languages:** Python (Pandas, NumPy, Matplotlib), R, SQL
+**Modelling:** Generalised linear models, rating systems, significance testing
+**Reporting:** Power BI, Excel
+**Pricing software:** WTW Emblem, WTW Radar
+
+### 📂 Featured projects
+**Dynamic Rating System for Professional Golfers:**	Ranks golfers and predicts tournament outcomes using a Generalised Plackett-Luce model derived from first principles, using	R.
+
+### 📫 Contact
+[LinkedIn](https://linkedin.com/in/yusuf-latif-b7b39b226) · Yusuflatif675@gmail.com
