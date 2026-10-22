@@ -4,8 +4,11 @@ Data Analyst working in insurance pricing. I work on pricing analysis, GLM model
 
 ### 🔧 Tools
 **Languages:** Python (Pandas, NumPy, Matplotlib), R, SQL
+
 **Modelling:** Generalised linear models, rating systems, significance testing
+
 **Reporting:** Power BI, Excel
+
 **Pricing software:** WTW Emblem, WTW Radar
 
 ### 📂 Featured projects
