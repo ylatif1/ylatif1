@@ -12,7 +12,7 @@ Data Analyst working in insurance pricing. I work on pricing analysis, GLM model
 **Pricing software:** WTW Emblem, WTW Radar
 
 ### 📂 Featured projects
-**[Dynamic Rating System for Professional Golfers](https://github.com/ylatif1/golf-rating-model)**:	Ranks golfers and predicts tournament outcomes using a Generalised Plackett-Luce model derived from first principles, using	R.
+**[Dynamic Rating System for Professional Golfers]([https://github.com/ylatif1/golf-rating-model](https://github.com/ylatif1/Golfers---Dynamic-Rating-System))**:	Ranks golfers and predicts tournament outcomes using a Generalised Plackett-Luce model derived from first principles, using	R.
 
 ### 📫 Contact
 [LinkedIn](https://linkedin.com/in/yusuf-latif-b7b39b226) · Yusuflatif675@gmail.com
